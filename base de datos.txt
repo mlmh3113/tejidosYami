@@ -1,0 +1,14 @@
+Producto:
+
+nombre=string
+descripcion=string 
+precio=int
+imagen=string
+imagen2=string
+stock=boolean
+
+to do:
+
+mail 
+link insta 
+footer about
